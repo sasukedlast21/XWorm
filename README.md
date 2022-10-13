@@ -1,21 +1,21 @@
-# XWorm-V2.2
+# XWorm V2.2
 
-### For Original License Key send me a Message with your Hardware-ID
+### For Free Original License Key send me a Message with your Hardware-ID
 
 ## Features
-
+<br>
 ⭐️ Builder :
 ✅ | Schtasks - Startup - Registry |
 ✅ | AntiAnalysis - USB Spread - Icon - Assembly |
-
+<br>
 ⭐️ Connection :
 ✅ | Not Need Host & Port |
 ✅ | Stable Connection - Encrypted Connection |
-
+<br>
 ⭐️ Tools :
 ✅ | Icon Changer - Multi Binder [Icon - Assembly] |
 ✅ | Fud Downloader [HTA-VBS-JS-WSF] - BlockClients |
-
+<br>
 ⭐️ Features :
 ✅ Information
 ✅ Monitor [Mouse - Keyboard - ResetScale - AutoSave]
@@ -35,7 +35,7 @@
 ✅ Location Manager [GPS - IP]
 ✅ File Manager
 ✅ Client [Restart - Close - Uninstall - Update - Block - Note]
-
+<br>
 ⭐️ Options :
 ✅ Power [Shutdown - Restart - Logoff]
 ✅ BlankScreen [Enable - Disable]
@@ -47,11 +47,11 @@
 ✅ Disable Update
 ✅ Run Shell
 ✅ Invoke-BSOD
-
+<br>
 ⭐️ Password Recovery :
 ✅ | Bookmarks - Browsers - All-In-One - DicordTokens |
 ✅ | FileZilla - ProduKey - WifiKeys - Email Clients |
-
+<br>
 ⭐️ Pastime :
 ✅ CD ROOM [Open - Close]
 ✅ DesktopIcons [Show - Hide]
@@ -64,7 +64,7 @@
 ✅ Text Speak
 ✅ Explorer [Start - Kill]
 ✅ TrayNotify [Show - Hide]
-
+<br>
 🔆 Extra 1 :
 ✅ KeyLogger
 ✅ Client Chat
@@ -76,7 +76,7 @@
 ✅ DeleteRestorePoints
 ✅ UAC Bypass [RunAs - Cmstp - Computerdefaults - DismCore]
 ✅ Run Clipper [All Cryptocurrencies]
-
+<br>
 🔆 Extra 2 :
 ✅ Ransomware [Encrypt - Decrypt]
 ✅ Ngrok Installer
@@ -84,12 +84,9 @@
 ✅ WDDisable
 ✅ WDExclusion
 ✅ Install [Startup - Registry - schtasks]
-
+<br>
 ⚙️ Requirements :
 🔸 .Net Framework 4.5 [Controller]
 🔸 .Net Framework 4.0 [Client]
 ⬆️ Size : 47.5 KB [Full Features]
-
-https://t.me/HackerMarketTM/357
-
 
