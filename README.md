@@ -1,6 +1,6 @@
 # XWorm V2.2
 
-### For Free Original License Key or Source Code send me a Message with your Hardware-ID
+### For free Original License Key or Source Code send me a Message with your Hardware-ID
 ### 
 
 
